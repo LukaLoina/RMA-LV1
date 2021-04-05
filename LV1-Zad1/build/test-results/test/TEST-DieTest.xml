@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="DieTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-03-28T18:16:19" hostname="debian-laptop" time="0.225">
+  <properties/>
+  <testcase name="unlockTest()" classname="DieTest" time="0.207"/>
+  <testcase name="rollTest()" classname="DieTest" time="0.007"/>
+  <testcase name="lockTest()" classname="DieTest" time="0.004"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
